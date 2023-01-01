@@ -2,11 +2,23 @@
 
 simple discord bot that plays the given url from youtube or spotify
 
-to run the bot, simply run the app1.py script after installing all the dependencies and filling all the required spots in the code with your information.
 
 instructions:
 
-from string 55 to string 57 fill the spots with your spotify api information, you can find it here:
+to run the bot, simply run the app1.py script after installing all the dependencies and filling all the required spots in the code with your information.
+
+needed dependencies:
+
+discord
+asyncio
+discord.ext 
+discord.utils
+youtube_dl
+spotipy
+spotipy.util
+
+
+from string 55 to string 57 fill the spots with your spotify api information, you can find them here:
 
 https://developer.spotify.com/dashboard/applications
 
