@@ -9,12 +9,12 @@ to run the bot, simply run the app1.py script after installing all the dependenc
 
 needed dependencies:
 
-discord
-asyncio
-discord.ext 
-discord.utils
-youtube_dl
-spotipy
+discord,
+asyncio,
+discord.ext,
+discord.utils,
+youtube_dl,
+spotipy,
 spotipy.util
 
 
